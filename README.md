@@ -4,6 +4,12 @@
 
 *A dark blue theme with orange hints for GNOME Shell 3.20.x*
 
+**SCREENSHOTS**
+
+![Screenshot](Fresh-Finesse/Screenshot from 2016-08-10 10-28-19.png)
+
+![Screenshot](Fresh-Finesse/Screenshot from 2016-08-10 10-28-51.png)
+
 **INSTALLATION**
 - If you haven't already, install the *User Themes* extension: https://extensions.gnome.org/extension/19/user-themes/
 - Open a terminal window (using your menu/launcher or using *CTRL+Alt+T*)
